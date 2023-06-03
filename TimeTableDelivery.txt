@@ -1,0 +1,7 @@
+poniedziałek	11:00 - 21:30
+wtorek	11:00 - 21:30
+środa	11:00 - 21:30
+czwartek	11:00 - 21:30 
+piątek	11:00 - 21:30
+sobota	11:00 - 21:30
+niedziela	11:00 - 21:30

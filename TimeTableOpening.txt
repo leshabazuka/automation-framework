@@ -1,0 +1,7 @@
+poniedziałek	12:00 - 22:00
+wtorek	12:00 - 22:00
+środa	12:00 - 22:00
+czwartek	12:00 - 22:00 
+piątek	12:00 - 22:00
+sobota	12:00 - 22:00
+niedziela	12:00 - 22:00
